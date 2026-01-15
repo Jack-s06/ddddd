@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  background: #242b23;
+  color: #2b2f2c;
+  font-family: "Times New Roman", Georgia, serif;
+  line-height: 1.6;
+}
+
+.banner {
+  margin: 0 auto; 
+  width: 80%;
+  padding: 3rem 1rem;
+  background: #223021;
+  color: #f6f7f5;
+  text-align: center;
+}
+
+.subbanner {
+  margin: 0 auto; 
+  width: 50%;
+  padding: 3rem 1rem;
+  background: #364734;
+  color: #364734;
+  text-align: center;
+}
+.subbanner:hover {
+  background: #355f8a;
+}
+
+.banner h1 {
+  margin: 0;
+  font-size: 2.5rem;
+  letter-spacing: 0.15em;
+  font-weight: normal;
+}
+
+.banner p {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+
+/* main content area */
+main {
+  max-width: 720px;
+  margin: 3rem auto;
+  padding: 0 1.5rem;
+}
+
+/* intro section */
+.intro h2 {
+  font-weight: normal;
+  border-bottom: 1px solid #bfc6bf;
+  padding-bottom: 0.3rem;
+}
+
+.intro p {
+  margin-top: 1rem;
