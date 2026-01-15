@@ -47,12 +47,4 @@ main {
   padding: 0 1.5rem;
 }
 
-/* intro section */
-.intro h2 {
-  font-weight: normal;
-  border-bottom: 1px solid #bfc6bf;
-  padding-bottom: 0.3rem;
-}
 
-.intro p {
-  margin-top: 1rem;
